@@ -1,4 +1,4 @@
-# Covid !9 tracker
+# Covid 19 tracker
 
 ### [Live Site](https://naveenambookken.github.io/covid19-tracker/#/)
 
